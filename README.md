@@ -1,4 +1,4 @@
-# netscan
+# arp-poison
 
 ## Install
 
