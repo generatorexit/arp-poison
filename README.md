@@ -5,7 +5,6 @@
 ```
 git clone https://github.com/generatorexit/arp-poison
 cd arp-poison
-bash install.sh
 ```
 ### Usage:
 
